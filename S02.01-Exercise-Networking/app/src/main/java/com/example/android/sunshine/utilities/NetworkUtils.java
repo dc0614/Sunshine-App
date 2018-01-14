@@ -13,6 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+//Diana Copeland
+
 package com.example.android.sunshine.utilities;
 
 import java.io.IOException;
